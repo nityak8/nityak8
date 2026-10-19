@@ -8,4 +8,3 @@ Developing machine learning models to evaluate credit risk and support lending d
 **Project Links:**
 - [GitHub Repository](https://github.com/Break-Through-Tech/American-Express-1B-second-look-lending)
 - [Live Streamlit Application](https://btt-amex-1b-sample-model-01.streamlit.app/)
-- [Streamlit Deployment Pull Request](https://github.com/Break-Through-Tech/American-Express-1B-second-look-lending/pull/20)
